@@ -6,6 +6,9 @@ import PayYourBank from "./components/PayYourBank.vue";
 import PayAnyBank from "./components/PayAnyBank.vue";
 import Login from "./views/Login.vue";
 import MainPage from "./views/MainPage.vue";
+import AdminPanel from "./views/AdminPanel.vue";
+import AdminPayments from "./components/AdminPayments.vue";
+import AdminRequests from "./components/AdminRequests.vue";
 
 Vue.use(Router);
 
@@ -42,6 +45,15 @@ export default new Router({
       path: "/login",
       name: "login",
       component: Login
+    },
+    {
+      path: "/admin",
+      name: "admin",
+      component: AdminPanel,
+      children: [
+        { path: "/admin/requested", component: AdminRequests },
+        { path: "/admin/payments", component: AdminPayments }
+      ]
     }
   ]
 });

@@ -11,11 +11,14 @@
 </template>
 
 <script>
-    export default {
-        name: "AdminPanel"
-    }
+export default {
+  name: "AdminPanel"
+};
 </script>
 
 <style scoped>
-
+#admin-panel a {
+  margin-left: 5%;
+  color: cadetblue;
+}
 </style>

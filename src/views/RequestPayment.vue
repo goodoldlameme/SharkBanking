@@ -172,7 +172,7 @@ export default {
         method: "post",
         data: { body: content },
         withCredentials: true,
-        headers: { "X-CSRF-Token" : this.$parent.$parent.token }
+        headers: { "X-CSRF-Token": this.$parent.$parent.token }
       })
         .then(response => {
           if (response.status === 200) {

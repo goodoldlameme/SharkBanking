@@ -46,7 +46,7 @@ export default {
           if (response.status === 200) {
             if (response.headers !== undefined)
               this.$parent.token = response.headers["x-csrf-token"];
-            console.log(this.$parent.token)
+            console.log(this.$parent.token);
             this.$emit("authenticated", true);
             this.$router.replace({ name: "mainpage" });
             this.$notify({

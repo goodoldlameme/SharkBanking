@@ -166,7 +166,6 @@ export default {
       this.paymentPurpose = "";
       this.totalCost = "";
     }
-
   }
 };
 </script>
