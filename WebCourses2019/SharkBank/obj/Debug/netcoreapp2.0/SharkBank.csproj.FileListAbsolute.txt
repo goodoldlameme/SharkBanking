@@ -1,0 +1,11 @@
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\bin\Debug\netcoreapp2.0\SharkBank.deps.json
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\bin\Debug\netcoreapp2.0\SharkBank.runtimeconfig.json
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\bin\Debug\netcoreapp2.0\SharkBank.runtimeconfig.dev.json
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\bin\Debug\netcoreapp2.0\SharkBank.dll
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\bin\Debug\netcoreapp2.0\SharkBank.pdb
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.csprojAssemblyReference.cache
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.csproj.CoreCompileInputs.cache
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.AssemblyInfoInputs.cache
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.AssemblyInfo.cs
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.dll
+C:\Users\1\YandexDisk\учёбка\web\ServerSide\WebCourses2019\SharkBank\obj\Debug\netcoreapp2.0\SharkBank.pdb
